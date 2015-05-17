@@ -1,0 +1,8 @@
+ofxAssimpModelLoader
+ofxNetwork
+ofxXmlSettings
+ofxLog
+ofxMidi
+ofxMSAOpenCL
+ofxMSAPingPong
+ofxUI
